@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "cross-env=PUBLIC_URL=https://react-test-1301944167.cos.ap-shanghai.myqcloud.com react-scripts build",
+    "build": "cross-env PUBLIC_URL=https://react-test-1301944167.cos.ap-shanghai.myqcloud.com react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
